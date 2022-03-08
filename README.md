@@ -5,4 +5,6 @@ I can write up a more helpful explanation of how to get a standard rather than "
 
 There are currently screenshots of all the steps in the Screens folder of the project, just no writeup for them yet.
 
+Here's what it looks like once you build/run or install on a device:
+
 ![alt text](Screens/nestoverlay.png)
